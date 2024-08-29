@@ -12,6 +12,10 @@ This project is a personal side project by Rajjya Rohan Paudyal to create a cust
 Email: rajjyarohan@gmail.com  
 GitHub: [rajjyarohan10](https://github.com/rajjyarohan10)
 
+**Zeel Patel**
+Email: zeelDaBestDancer@rascals.com
+Github: [Zeelp405](https://github.com/zeelp405)
+
 # Project Overview
 
 ## Objective:
